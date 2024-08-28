@@ -29,7 +29,7 @@ University of Cologne, Institute for Plant Sciences
 
 For questions regarding the uploaded data, please contact:
 
-**Ute Höcker**  
+**Ute Hoecker**  
 Institute for Plant Sciences  
 University of Cologne
 
